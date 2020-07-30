@@ -1,0 +1,57 @@
+{
+  "id": "d91fc48a-aed7-4660-bfff-af412ed14e5f",
+  "name": "ObtenerCorreo",
+  "auto": true,
+  "contexts": [
+    "setObtenerCiudadResidencia"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "setObtenerCorreo",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3355f62b-6608-4c83-a74f-dd8772c9d759",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Genial! ¿Cuál es tu tema de interés? Por favor",
+            "Excelente ¿Cuál tema te interesa? Por favor",
+            "Tema de interés, por favor",
+            "¿Qué desea saber?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "dfd489f4-94fc-4798-9870-c829a5c5d5cd",
+  "name": "ObtenerPaisOrigen",
+  "auto": true,
+  "contexts": [
+    "setObtenerDatos"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "setObtenerPaisOrigen",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b2348584-b0e0-41ec-b342-b5eb5aff8ff0",
+          "required": true,
+          "dataType": "@sys.geo-country",
+          "name": "country",
+          "value": "$country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Genial ¿Cuál es tu ciudad de residencia?",
+            "Excelente ¿En cuál ciudad vives?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

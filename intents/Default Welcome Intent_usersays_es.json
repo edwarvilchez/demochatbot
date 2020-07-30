@@ -1,0 +1,26 @@
+[
+  {
+    "id": "adb6be5b-4f2a-435b-a467-517322b04072",
+    "data": [
+      {
+        "text": "saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0df7af48-6bef-4a0e-b853-751faee1a8e5",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

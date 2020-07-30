@@ -1,0 +1,65 @@
+[
+  {
+    "id": "0e9dd47d-d560-45a9-91bc-4e2040d99f4e",
+    "data": [
+      {
+        "text": "Quiero ir a un ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "alias": "TemasInteres",
+        "meta": "@TemasInteres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33724576-6201-45f2-8378-30cedcbeb150",
+    "data": [
+      {
+        "text": "Dame información sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "presentación",
+        "alias": "TemasInteres",
+        "meta": "@TemasInteres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d41a036b-7ca2-4cfb-9609-7d72c4db24a7",
+    "data": [
+      {
+        "text": "Me gustaría asistir a ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "charla",
+        "alias": "TemasInteres",
+        "meta": "@TemasInteres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

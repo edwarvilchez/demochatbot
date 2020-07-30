@@ -1,0 +1,9 @@
+{
+  "id": "ac679c60-c8df-4a00-a3fa-e3795d60d6a3",
+  "name": "TemasInteres",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

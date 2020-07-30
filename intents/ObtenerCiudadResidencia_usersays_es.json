@@ -1,0 +1,101 @@
+[
+  {
+    "id": "d91b834d-20e9-4b4f-be02-da9d109f6c06",
+    "data": [
+      {
+        "text": "en ",
+        "userDefined": false
+      },
+      {
+        "text": "maracay",
+        "alias": "city",
+        "meta": "@sys.geo-capital",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd0fe89b-9043-415d-880f-bf1300df8461",
+    "data": [
+      {
+        "text": "vivo en ",
+        "userDefined": false
+      },
+      {
+        "text": "maracaibo",
+        "alias": "city",
+        "meta": "@sys.geo-capital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b746698-9212-483a-abc7-61c889dce24f",
+    "data": [
+      {
+        "text": "resido en ",
+        "userDefined": false
+      },
+      {
+        "text": "madrid",
+        "alias": "city",
+        "meta": "@sys.geo-capital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64d13d53-4a74-43c4-a4e8-942fa38b34db",
+    "data": [
+      {
+        "text": "estoy en ",
+        "userDefined": false
+      },
+      {
+        "text": "caracas",
+        "alias": "city",
+        "meta": "@sys.geo-capital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc1d5601-67e2-4c71-a7a0-6a3a427e48ba",
+    "data": [
+      {
+        "text": "yo ",
+        "userDefined": false
+      },
+      {
+        "text": "vivo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "caracas",
+        "alias": "city",
+        "meta": "@sys.geo-capital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

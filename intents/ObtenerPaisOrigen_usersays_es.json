@@ -1,0 +1,70 @@
+[
+  {
+    "id": "6dead880-fec8-4aaf-90d7-bcbb4bdb2268",
+    "data": [
+      {
+        "text": "venezuela",
+        "alias": "country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a80087d-e2eb-4a20-a3ff-f41e1c3d5613",
+    "data": [
+      {
+        "text": "yo vengo de ",
+        "userDefined": false
+      },
+      {
+        "text": "venezuela",
+        "alias": "country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fae5c26-2a69-46ef-b0f1-83d8bff1a7f0",
+    "data": [
+      {
+        "text": "soy de ",
+        "userDefined": false
+      },
+      {
+        "text": "venezuela",
+        "alias": "country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "16602c95-e74c-49b2-9386-9cf7657089f6",
+    "data": [
+      {
+        "text": "nací en ",
+        "userDefined": false
+      },
+      {
+        "text": "venezuela",
+        "alias": "country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

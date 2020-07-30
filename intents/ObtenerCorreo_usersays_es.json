@@ -1,0 +1,90 @@
+[
+  {
+    "id": "42365633-5c7e-47f8-b273-825700cff8c4",
+    "data": [
+      {
+        "text": "mi ",
+        "userDefined": false
+      },
+      {
+        "text": "correo",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " es hola@hola.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73d42080-ea33-4742-ad38-cbde951647d8",
+    "data": [
+      {
+        "text": "mi ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " es hola@hola.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e294a72d-802e-450f-a3de-4e28fe1cff74",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "email",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " is hola@hola.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cc572c2-4845-4872-9c5b-c16578087fe2",
+    "data": [
+      {
+        "text": "mi ",
+        "userDefined": false
+      },
+      {
+        "text": "correo electrónico",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      },
+      {
+        "text": " es hola@hola.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

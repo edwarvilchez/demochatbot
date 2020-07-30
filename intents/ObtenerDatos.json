@@ -1,0 +1,68 @@
+{
+  "id": "e43e0228-35a3-4e19-9cbe-8a1585fabb2c",
+  "name": "ObtenerDatos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "setObtenerDatos",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "98d80822-35f8-404a-bceb-cc479be0dbd5",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "first-name",
+          "value": "$first-name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cual es tu país de origen?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "73012154-e9fe-46a7-a0ea-d4bae46dd7cf",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Genial $first-name $last-name ¿Cuál es tu país de origen?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "275c3258-c65c-49ef-8a4d-011f421d3ab8",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "¡Hola! Soy Demo Chat Bot tu Asistente Personal Virtual, para comenzar su registro, podría por favor, decirme su Nombre y Apellido",
+            "¡Hola! Soy Demo Chat Bot, para comenzar su registro, podría por favor, decirme su Nombre y Apellido"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

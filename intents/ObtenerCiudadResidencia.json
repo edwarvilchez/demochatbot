@@ -1,0 +1,55 @@
+{
+  "id": "4f8584c5-211f-4fd9-9ae7-55ebb5a8de7b",
+  "name": "ObtenerCiudadResidencia",
+  "auto": true,
+  "contexts": [
+    "setObtenerPaisOrigen"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "setObtenerCiudadResidencia",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "564595e3-2e68-4b8f-b481-27873a1268d8",
+          "required": true,
+          "dataType": "@sys.geo-capital",
+          "name": "city",
+          "value": "$city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Grandioso! ¿Cuál es tu email?",
+            "Excelente ¿Cuál es tu correo?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

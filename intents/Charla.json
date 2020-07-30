@@ -1,0 +1,47 @@
+{
+  "id": "0808eb60-f174-463e-94c0-afb9ba596b1d",
+  "name": "Charla",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "45738934-d48d-4a38-be16-b07bb6187481",
+          "required": true,
+          "dataType": "@TemasInteres",
+          "name": "TemasInteres",
+          "value": "$TemasInteres",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Aquí te dejo información de una presentación",
+            "La información solicitada"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

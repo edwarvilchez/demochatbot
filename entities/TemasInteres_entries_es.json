@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Taller",
+    "synonyms": [
+      "Taller",
+      "workshop",
+      "taller",
+      "código"
+    ]
+  },
+  {
+    "value": "Charla",
+    "synonyms": [
+      "Charla",
+      "platica",
+      "plática",
+      "presentación",
+      "conferencia",
+      "charla",
+      "exposición"
+    ]
+  },
+  {
+    "value": "Lives",
+    "synonyms": [
+      "Lives",
+      "live",
+      "en vivo",
+      "en línea",
+      "online",
+      "vivo",
+      "webinar",
+      "stream",
+      "streaming"
+    ]
+  }
+]
